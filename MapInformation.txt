@@ -1,0 +1,114 @@
+Project-04
+Oliver DiPuccio
+11/19/2021
+<Nodes>
+Symbol	Address																		
+A	1121 N Bend Rd.																		
+B	1521 Grassland Ave.																		
+C	22 Main St.																		
+D	44 W Lexington Ave.																		
+E	4423 Walnut St.																		
+F	1616 Levington Blvd.																		
+G	2402 N Bend Rd.																		
+H	33 Holden Ave.																		
+I	3411 Walnut St.																		
+J	44 Kirkland Dr.																		
+K	14 Pepper Ave.																		
+L	3311 N Bend Rd.																		
+M	15 Goodman Dr.																		
+N	510 Lake St.																	
+O	1600 N Bend Rd.																
+P	55 Main St.																
+Q	5500 Walnut St.																	
+R	11 Savannah Dr.																		
+S	20  Hopper Blvd.																		
+T	9810 Miami Blvd.													
+</Nodes>
+<Edges>
+Source	Destination	TimeCost	DistanceCost																
+A	C	4	8
+A	Q	3	6
+A	T	5	10
+B	G	6	12
+B	H	8	16
+B	Q	2	16
+B	R	5	10
+C	D	2	4
+C	J	8	16
+C	L	8	16
+D	F	4	8
+D	N	7	14
+D	T	1	4
+E	G	8	5
+E	I	7	14
+E	O	4	8
+E	Q	3	6
+F	M	10	20
+F	R	6	16
+G	D	1	60
+H	K	6	12
+H	L	2	5
+I	E	5	14
+J	C	7	16
+K	H	4	12
+L	C	2	16
+L	H	1	5
+M	F	6	20
+N	S	4	8
+O	E	7	8
+O	P	4	8
+P	C	4	8
+P	F	8	4
+P	O	3	8
+P	T	7	14
+Q	B	8	16
+R	F	8	16
+S	D	3	6
+S	T	6	9
+T	D	2	4
+T	S	4	9
+</Edges>
+<Points>
+
+AC	140	195	275	135
+AQ	165	45	275	135
+AT	345	235	275	135
+BG	80	105	175	125
+BH	40	35	80	105
+BQ	80	105	165	45
+BR	80	105	35	235
+CD	265	270	140	195
+CJ	140	195	75	340
+CL	20	175	140	195
+DF	165	255	265	270
+DN	265	270	195	385
+DT	345	235	265	270
+EG	175	125	315	40
+EI	315	40	390	20
+EO	315	40	355	155
+EQ	165	45	315	40
+FM	135	365	165	255
+FR	35	235	165	255
+GD	175	125	265	270
+HK	40	35	115	25
+HL	40	35	20	175
+IE	315	40	390	20
+JC	140	195	75	340
+KH	40	35	115	25
+LC	20	175	140	195
+LH	40	35	20	175
+MF	135	365	165	255
+NS	345	350	195	385
+OE	315	40	355	155
+OP	355	155	275	185
+PC	140	195	275	185
+PF	165	255	275	185
+PO	355	155	275	185
+PT	345	235	275	185
+QB	80	105	165	45
+RF	35	235	165	255
+SD	345	350	265	270
+ST	345	350	345	235
+TD	345	235	265	270
+TS	345	350	345	235
+</Points>
